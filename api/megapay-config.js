@@ -3,7 +3,7 @@
 // 🔴 REPLACE these with your actual MegaPay credentials
 export const MEGAPAY_CONFIG = {
   // Your API key from MegaPay
-  apiKey: 'MGPY8h6lIlxh',
+  apiKey: 'MGPYz7BjMcu9',
   // Your registered email with MegaPay
   email: 'hubslinks@gmail.com',
 
